@@ -10,3 +10,5 @@ so the company can take proactive measures to retain valuable customers and redu
 * **Imorove Service Quality :** Company needs to improve their deals and offers to attract customers. <br>
 * **Strenghten Customer Retention :** Implement targeted retention programs for month-to-month customers and customer with short tenure.<br>
 * **Conduct Customer Satisfication Surveys :** Regularly collect feedback from customers to identify areas of improvement and addressing emerging issues.
+# Dashboard 
+![image](https://github.com/user-attachments/assets/e2f0bcf1-092f-4f69-85c7-e5188915a386)
