@@ -1,9 +1,8 @@
-# Telecom-Customer-Churn-Analysis
-The goal of the project is to predict and customer attrition patterns in telecommunication company,
+# Telecom Customer Churn Analysis
+The goal of the project is to predict customer attrition patterns in telecommunication company,
 so the company can take proactive measures to retain valuable customers and reduced churn rate. 
 # Executive Summary
-The 26.54% churn rate indicates a substantial customer loss for the Telecom Company. Around half of customers churning are related to the competitor category because they have better deals to offer and also better devices.The churn rate for customers aged 80 is 43.94%. A significant portion of customers leave within a short period of time. Month-to-month contracts exhibited the highest churn rate (45.84%).
-This highlights the need for competitive offerings, improved service quality, and strategies to retain customers early in their engagement.
+Of 7,043 telecom customers analyzed, 1,869 have churned, a 26.54% churn rate. Competitor offers (better devices, pricing, and data) drive the most losses, followed by poor service attitude and price concerns. Churn is heavily concentrated among month-to-month customers (45.84% vs. 2.55% for two-year contracts), early-tenure customers, and those over 60 (41-44%). To reduce churn, the business should incentivize longer contracts, strengthen onboarding and support quality, and deploy targeted retention offers for these high-risk segments.
 # Insights
 Identifying a churn rate of 26.54% among 7,043 customers, with 1,869 churned customers.<br>
 Key findings include: <br>
