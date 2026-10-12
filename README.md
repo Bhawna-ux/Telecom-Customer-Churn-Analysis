@@ -7,18 +7,17 @@ This highlights the need for competitive offerings, improved service quality, an
 # Insights
 Identifying a churn rate of 26.54% among 7,043 customers, with 1,869 churned customers.<br>
 Key findings include: <br>
-### Primary churn reasons
-Competitive pricing, better offers, and poor support attitude were major drivers, accounting for 313, 311, and 220 cases, respectively.<br>
-### Churn by contract type
-* Month-to-month contracts exhibited the highest churn rate (45.84%), compared to one-year (10.71%) and two-year (2.55%) contracts.
-### Demographics and churn trend
-Older customers (70–80 years) and those with short tenures showed elevated churn rates (41.93% and over 40%, respectively).<br>
-### Churn by tenure
-Tenure under 20 months showed a significant drop in retention, indicating a need for targeted interventions early in the customer lifecycle.<br>
-The churn rate is **61% in first month.** There is slight upstick in churn rate after 4 years (50 months) indicating a potential in retaining long-term customers.
+### Competitors drive the most churn
+Competitor-related reasons account for 841 of the 1,869 churned customers (45%). The top individual reasons are competitors offering better devices (313) and better offers (311), followed by more data and faster download speeds.<br>
+### Contract type
+Month-to-month customers churn at 45.84%, versus just 2.55% for two-year contracts. Long-term commitment is a powerful retention lever. <br>
+### Service attitude
+Poor attitude from support staff and service providers is a top-three reason customers walk away. <br>
 # Recommendation
-* **Imorove Service Quality :** Company needs to improve their deals and offers to attract customers. <br>
-* **Strenghten Customer Retention :** Implement targeted retention programs for month-to-month customers and customer with short tenure.<br>
-* **Conduct Customer Satisfication Surveys :** Regularly collect feedback from customers to identify areas of improvement and addressing emerging issues.
+* Incentivize month-to-month users to move to annual plans <br>
+* Invest in support team training and soft skills <br>
+* Build a strong onboarding program for the first 90 days <br>
+* Create competitive counter-offers for at-risk customers <br?
+
 # Dashboard 
 ![image](https://github.com/user-attachments/assets/e2f0bcf1-092f-4f69-85c7-e5188915a386)
